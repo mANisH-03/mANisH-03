@@ -1,7 +1,7 @@
 ### Hi, I'm MANiSH 👋
 ![image](https://user-images.githubusercontent.com/68260613/133888482-b804ed2d-6dd2-4ac7-be75-03fb5f9c209d.png)
 
-- 🔭 I’m currently working with Python, C++, JavaScript, AWS etc. 💻
+- 🔭 I’m currently working with Python, C++, JavaScript, AWS 💻
 - 🌱 I’m currently learning Web Development 🕸 👨‍💻
 - 📫 How to reach me: mishramanish221204@gmail.com 📧
 
